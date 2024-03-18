@@ -1,0 +1,4 @@
+.todo-item-section ul{
+    display: flex;
+    flex-direction: column;
+}
